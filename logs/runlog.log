@@ -1,0 +1,4 @@
+2020-04-03 14:59:00,559 conftest.py[line:76] INFO 正在启动浏览器名称:chrome
+2020-04-03 14:59:09,236 base.py[line:27] INFO 正在定位元素信息:定位方式->css selector,Value值->div[title='设置']
+2020-04-03 14:59:15,606 base.py[line:27] INFO 正在定位元素信息:定位方式->css selector,Value值->div[title='设置']
+2020-04-03 14:59:26,071 conftest.py[line:79] INFO 当全部用例执行完之后，teardown quit driver!
